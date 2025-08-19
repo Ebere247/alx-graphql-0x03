@@ -1,1 +1,1 @@
-# alx-graphql-0x01
+Mastery of Error Handling in Nextjs
